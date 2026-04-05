@@ -23,11 +23,11 @@ repository               : "Vuk-Luzanin/Vuk-Luzanin.github.io.git"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "vuk_avatar.jpg"
   name             : "Vuk Luzanin"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher and software engineer"
-  location         : "Software engineering @ ETF, Belgrade, Serbia"
+  bio              : "Researcher and software engineering student"
+  location         : "CS @ ETF Belgrade"
   employer         :
   uri              : # URL
   email            : "luzaninvuk@gmail.com" 
