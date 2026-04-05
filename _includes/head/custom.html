@@ -14,4 +14,40 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<script>
+	// Enforce light mode and ignore previously stored theme preference.
+	try {
+		localStorage.setItem("theme", "light");
+	} catch (e) {
+		// Ignore storage errors in private mode.
+	}
+	document.documentElement.removeAttribute("data-theme");
+</script>
+
+<style>
+	body {
+		font-size: 1.06rem;
+	}
+
+	.author__avatar img,
+	img.author__avatar,
+	.author__avatar .author__avatar-image {
+		width: 230px !important;
+		height: 300px !important;
+		max-width: none !important;
+		border-radius: 50% / 42% !important;
+		object-fit: cover;
+		object-position: center 18%;
+	}
+
+	@media screen and (max-width: 1024px) {
+		.author__avatar img,
+		img.author__avatar,
+		.author__avatar .author__avatar-image {
+			width: 108px !important;
+			height: 140px !important;
+		}
+	}
+</style>
+
 <!-- end custom head snippets -->
