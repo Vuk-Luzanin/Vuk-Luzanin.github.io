@@ -46,6 +46,10 @@
   list-style-type: none;
   white-space: nowrap;
 
+  a {
+    color: $dark-gray !important;
+  }
+
   &--lg {
     padding-right: 2em;
     font-weight: 700;
