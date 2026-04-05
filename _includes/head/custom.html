@@ -29,23 +29,39 @@
 		font-size: 1.06rem;
 	}
 
-	.author__avatar img,
-	img.author__avatar,
+	.author__avatar {
+		width: 100%;
+	}
+
 	.author__avatar .author__avatar-image {
-		width: 230px !important;
-		height: 300px !important;
+		display: block;
+		margin: 0 auto;
+		width: 220px !important;
+		height: 290px !important;
 		max-width: none !important;
 		border-radius: 50% / 42% !important;
 		object-fit: cover;
-		object-position: center 18%;
+		object-position: center 16%;
 	}
 
 	@media screen and (max-width: 1024px) {
-		.author__avatar img,
-		img.author__avatar,
 		.author__avatar .author__avatar-image {
-			width: 108px !important;
-			height: 140px !important;
+			width: min(46vw, 170px) !important;
+			height: min(60vw, 225px) !important;
+		}
+	}
+
+	@media screen and (max-width: 640px) {
+		.author__avatar {
+			display: block !important;
+			vertical-align: initial;
+		}
+
+		.author__content,
+		.author__urls-wrapper {
+			display: block !important;
+			padding-left: 0 !important;
+			padding-right: 0 !important;
 		}
 	}
 </style>
