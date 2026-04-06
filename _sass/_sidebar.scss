@@ -91,6 +91,10 @@
   }
 }
 
+.author-profile--home .author__avatar img {
+  max-width: 175px;
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;
