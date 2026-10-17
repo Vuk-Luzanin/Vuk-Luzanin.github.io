@@ -8,7 +8,6 @@
     "summary": "PhD student and researcher working on power-efficient AI systems, hardware-software co-design, computer architecture, and scalable datacenter workloads.",
     "location": { "city": "Austin", "region": "TX", "countryCode": "USA" },
     "profiles": [
-      { "network": "Google Scholar", "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" },
       { "network": "LinkedIn", "url": "https://www.linkedin.com/in/vuk-lu%C5%BEanin-735913244" },
       { "network": "GitHub", "username": "Vuk-Luzanin", "url": "https://github.com/Vuk-Luzanin" }
     ]
