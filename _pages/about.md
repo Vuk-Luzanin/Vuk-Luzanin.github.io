@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-I am Vuk Luzanin, fourth-year student at the School of Electrical Engineering, University of Belgrade, and an incoming PhD student in Computer Science at the University of Texas at Austin. 
+I am Vuk Luzanin, a PhD student in Computer Science at the University of Texas at Austin. I previously completed a Bachelor of Science in Software Engineering at the University of Belgrade's School of Electrical Engineering.
 
 **Research Interests**
 
@@ -15,6 +15,6 @@ I am Vuk Luzanin, fourth-year student at the School of Electrical Engineering, U
 
 My research interests are in computer architecture and systems for AI:
 
-- RISC-V and AI accelerators, hardware–software co-design
-- Parallel systems and low-level kernel performance for multiprocessor and AI workloads
-- High-performance computing, scalability, and reliability in multiprocessor environments
+- Power, energy, and thermal efficiency of cloud and datacenter environments
+- Hardware-software co-design and computer architecture (RISC-V, AI accelerators) for power-efficient AI workloads
+- Parallel systems and high-performance computing for scalable, efficient AI workloads

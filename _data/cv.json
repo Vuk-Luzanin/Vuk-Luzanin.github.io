@@ -1,152 +1,66 @@
 {
   "basics": {
     "name": "Vuk Luzanin",
-    "email": "luzaninvuk@gmail.com",
-    "phone": "",
+    "label": "PhD Student and Researcher",
+    "email": "vluzanin@utexas.edu",
+    "phone": "+1 (512) 839-6717",
     "website": "https://vuk-luzanin.github.io",
-    "summary": "Researcher and software engineer",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "RS",
-      "region": ""
-    },
+    "summary": "PhD student and researcher working on power-efficient AI systems, hardware-software co-design, computer architecture, and scalable datacenter workloads.",
+    "location": { "city": "Austin", "region": "TX", "countryCode": "USA" },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "GitHub",
-        "username": "Vuk-Luzanin",
-        "url": "https://github.com/Vuk-Luzanin"
-      }
+      { "network": "Google Scholar", "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" },
+      { "network": "LinkedIn", "url": "https://www.linkedin.com/in/vuk-lu%C5%BEanin-735913244" },
+      { "network": "GitHub", "username": "Vuk-Luzanin", "url": "https://github.com/Vuk-Luzanin" }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Texas at Austin",
+      "area": "PhD in Computer Science",
+      "startDate": "2025",
+      "endDate": "Present",
+      "courses": ["Advisor: Prof. Jovan Stojkovic", "Topic: Hardware-Software Co-design for Power-Efficient AI in Datacenters"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Belgrade, School of Electrical Engineering",
+      "area": "Bachelor of Science in Software Engineering",
+      "startDate": "2022",
+      "endDate": "2026",
+      "gpa": "9.47/10",
+      "courses": ["Thesis: Parallelization of the Feynman-Kac Algorithm on a Multicore Processor and Analysis of Real-World Applications"]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
+  "work": [
+    { "position": "Research Assistant", "company": "University of Texas at Austin", "startDate": "Aug 2026", "endDate": "Present", "summary": "Designing hardware and software to improve the power, energy, and thermal efficiency of scalable AI workloads in cloud and datacenter environments." },
+    { "position": "Research Student", "company": "Center for Data Processing, School of Electrical Engineering, University of Belgrade", "startDate": "Apr 2025", "endDate": "July 2026", "summary": "Compared parallel Feynman-Kac implementations using OpenMP, pthreads, C++ threads, and CUDA on multicore CPUs and GPUs, analyzing speedup, scalability, and real-world applications." },
+    { "position": "Software Engineer Intern - AI Performance & Debugging Tools", "company": "Tenstorrent Inc., Belgrade, Serbia", "startDate": "Sept 2025", "endDate": "Nov 2025", "summary": "Developed a method for atomically reading debug bus signals on RISC-V-based AI accelerators and interpreted hang signatures in multiprocessor workloads." },
+    { "position": "Software Engineer Intern", "company": "BlackRock, London and Belgrade", "startDate": "June 2025", "endDate": "Aug 2025", "summary": "Designed and implemented a centralized request-routing microservice for BlackRock's Private Markets division using predefined routes and gRPC." },
+    { "position": "Embedded Software Engineer", "company": "Road Arrow - Formula Student Team, Belgrade, Serbia", "startDate": "Oct 2024", "endDate": "Dec 2025", "summary": "Developed STM32 vehicle-control software, CAN-based bootloader infrastructure, and a modular ECU using CAN, I2C, UART, and SPI." }
   ],
   "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
+    { "course": "Undergraduate Teaching Assistant", "institution": "University of Belgrade", "date": "Spring 2026", "role": "Computer Architecture; Algorithms and Data Structures; Computer Networks" },
+    { "course": "Undergraduate Teaching Assistant", "institution": "University of Belgrade", "date": "Fall 2025", "role": "Computer Architecture; Algorithms and Data Structures; Object-oriented Programming; Fundamentals of Databases; Intelligent Systems; Introduction to Programming" },
+    { "course": "Undergraduate Teaching Assistant", "institution": "University of Belgrade", "date": "Spring 2025", "role": "Computer Architecture; Algorithms and Data Structures; Computer Networks" },
+    { "course": "Undergraduate Teaching Assistant", "institution": "University of Belgrade", "date": "Fall 2024", "role": "Computer Architecture; Algorithms and Data Structures; Object-oriented Programming; Fundamentals of Databases; Intelligent Systems; Introduction to Programming" }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "skills": [
+    { "name": "Languages", "keywords": ["C", "C++", "CUDA", "OpenMP", "Python", "Java", "Spring", "SQL", "RISC-V Assembly", "gRPC"] },
+    { "name": "Software Stack", "keywords": ["vLLM", "mini-SWE-agent", "Docker", "MongoDB"] },
+    { "name": "Hardware", "keywords": ["CPUs", "GPUs", "FPGAs", "STM32 microcontrollers", "Raspberry Pi"] },
+    { "name": "Benchmarks", "keywords": ["SWE-Bench", "DABStep", "Terminal-Bench"] }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Advanced (TOEFL iBT 101/120, Nov 2025)" },
+    { "language": "German", "fluency": "Intermediate" },
+    { "language": "Serbian", "fluency": "Native" }
+  ],
+  "interests": [
+    { "name": "Power, energy, and thermal efficiency of cloud and datacenter environments" },
+    { "name": "Hardware-software co-design and computer architecture for power-efficient AI" },
+    { "name": "Parallel systems and high-performance computing for scalable AI workloads" }
+  ],
+  "publications": [],
+  "presentations": [],
+  "references": [],
+  "portfolio": []
 }
