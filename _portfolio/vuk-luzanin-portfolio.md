@@ -27,9 +27,9 @@ collection: portfolio
 
 ## Industry Experience
 
-- Software Engineer Intern — AI Performance & Debugging Tools (Sept 2025–Nov 2025), [Tenstorrent Inc.](https://tenstorrent.com/), Belgrade
-- Software Engineer Intern (June 2025–Aug 2025), [BlackRock](https://www.blackrock.com/), London and Belgrade
-- Embedded Software Engineer (Oct 2024–Dec 2025), [Road Arrow – Formula Student Team](https://fsra.stt.org.rs/), Belgrade
+- Software Engineer Intern — AI Performance & Debugging Tools (Sept 2025–Nov 2025), [Tenstorrent Inc.](https://tenstorrent.com/)
+- Software Engineer Intern (June 2025–Aug 2025), [BlackRock](https://www.blackrock.com/)
+- Embedded Software Engineer (Oct 2024–Dec 2025), [Road Arrow – Formula Student Team](https://fsra.stt.org.rs/)
 
 ## Scholarships & Awards
 
