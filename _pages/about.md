@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-I am Vuk Luzanin, a PhD student in Computer Science at the University of Texas at Austin. I’m advised by [Jovan Stojkovic](https://jovans2.github.io/). I previously completed a Bachelor of Science in Software Engineering at the University of Belgrade's School of Electrical Engineering.
+I am Vuk Luzanin, a PhD student in Computer Science at the University of Texas at Austin. I’m advised by [Jovan Stojkovic](https://jovans2.github.io/) and am part of the [CASCADE](https://cascade.cs.utexas.edu/) group. I previously completed a Bachelor of Science in Software Engineering at the University of Belgrade's School of Electrical Engineering.
 
 **Research Interests**
 
