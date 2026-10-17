@@ -6,8 +6,8 @@ collection: portfolio
 
 ## Education
 
-- PhD in Computer Science (2026–Present), University of Texas at Austin
-  - **Advisor:** Prof. Jovan Stojkovic
+- PhD in Computer Science (2026–Present), The University of Texas at Austin
+  - **Advisor:** Prof. [Jovan Stojkovic](https://jovans2.github.io/)
   - **Topic:** Hardware–Software Co-design for Power-Efficient AI in Datacenters
 - Bachelor of Science in Software Engineering (2022–2026), University of Belgrade, School of Electrical Engineering
   - **Thesis:** Parallelization of the Feynman–Kac Algorithm on a Multicore Processor and Analysis of Real-World Applications
