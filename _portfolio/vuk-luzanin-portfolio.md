@@ -17,12 +17,12 @@ collection: portfolio
 
 - Research Assistant (Aug 2026–Present), University of Texas at Austin
   - Designing hardware and software to improve the power, energy, and thermal efficiency of scalable AI workloads in cloud and datacenter environments.
-- Research Student (Apr 2025–July 2026), Center for Data Processing, School of Electrical Engineering, University of Belgrade
+- Undergrad Research Assistant (Apr 2025–July 2026), [Center for Data Processing](https://palatanauke.rs/en/science-centers/centre-for-data-processing/), [School of Electrical Engineering](https://www.etf.bg.ac.rs/en), University of Belgrade
   - Compared OpenMP, pthreads, C++ threads, and CUDA implementations of the parallel Feynman–Kac algorithm on multicore CPUs and GPUs.
 
 ## Teaching Experience
 
-- Undergraduate Teaching Assistant (Fall 2024–Spring 2026), University of Belgrade
+- Undergraduate Teaching Assistant (Fall 2024–Spring 2026), [SEE-UB](https://www.etf.bg.ac.rs/en#gsc.tab=0)
   - **Courses:** Computer Architecture, Algorithms and Data Structures, Computer Networks, Object-oriented Programming, Fundamentals of Databases, Intelligent Systems, Introduction to Programming
 
 ## Industry Experience
