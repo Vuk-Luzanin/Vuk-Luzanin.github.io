@@ -4,15 +4,9 @@ excerpt: "Academic and industry experience."
 collection: portfolio
 ---
 
-## Research Interests
-
-- Power, energy, and thermal efficiency of cloud and datacenter environments
-- Hardware-software co-design and computer architecture (RISC-V, AI accelerators) for power-efficient AI workloads
-- Parallel systems and high-performance computing for scalable, efficient AI workloads
-
 ## Education
 
-- PhD in Computer Science (2025–Present), University of Texas at Austin
+- PhD in Computer Science (2026–Present), University of Texas at Austin
   - **Advisor:** Prof. Jovan Stojkovic
   - **Topic:** Hardware–Software Co-design for Power-Efficient AI in Datacenters
 - Bachelor of Science in Software Engineering (2022–2026), University of Belgrade, School of Electrical Engineering
